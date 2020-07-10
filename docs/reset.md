@@ -1,4 +1,4 @@
-# Get Next Integer
+# Reset Integer
 
 Resets the user's current integer  
 
