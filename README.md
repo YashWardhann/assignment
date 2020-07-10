@@ -11,3 +11,5 @@ Below are the different end-points that exist on the server. Click on the endpoi
 [Get Next Integer](docs/next.md) : `GET /api/next`
 
 [Change Integer](docs/reset.md) : `PUT /api/current`
+
+### Time Taken: ~2 Hours
